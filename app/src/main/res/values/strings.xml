@@ -21,6 +21,6 @@
     <string name="confirm">Confirm</string>
     <string name="no_code_q">Didn\'t receive code?</string>
     <string name="resend">Resend Code</string>
-<!--    <string name="app_name">CKEventSheets</string>-->
+    <!--    <string name="app_name">CKEventSheets</string>-->
 
 </resources>
