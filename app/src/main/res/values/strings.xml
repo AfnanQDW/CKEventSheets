@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">CKEventSheets</string>
+    <string name="app_name">Event Sheets</string>
+    <string name="create_account">Create an Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="signUp">Sign Up</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="policy_check">عند الضغط على تسجيل مستخدم فأنت توافق على الشروط والأحكام الخاصة بالتطبيق</string>
+    <string name="have_account">Already have an Account?</string>
+    <string name="login">Login</string>
+    <string name="forgot_pass">Forgot your Password?</string>
+    <string name="no_account">Don\'t have an account? </string>
+    <string name="signup_new">Sign up now</string>
+    <string name="reset_pass">Reset Password</string>
+    <string name="confirmation_code">Enter confirmation code</string>
+    <string name="text_sent">A text was sent to your Mobile Number</string>
+    <string name="with_the_code">with the confirmation code</string>
+    <string name="confirm">Confirm</string>
+    <string name="no_code_q">Didn\'t receive code?</string>
+    <string name="resend">Resend Code</string>
+<!--    <string name="app_name">CKEventSheets</string>-->
+
 </resources>
