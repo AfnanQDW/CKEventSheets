@@ -42,15 +42,17 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
 
     @Override
     public void onClick(View view) {
+        Intent intent;
         switch (view.getId()) {
             case R.id.btnLogin:
 
                 break;
             case R.id.txtForgotPass:
-
+                intent = new Intent(Login.this, ResetPassword.class);
+                startActivity(intent);
                 break;
             case R.id.txtSignUpNow:
-                Intent intent = new Intent(Login.this, SignUp.class);
+                intent = new Intent(Login.this, SignUp.class);
                 startActivity(intent);
                 break;
         }
