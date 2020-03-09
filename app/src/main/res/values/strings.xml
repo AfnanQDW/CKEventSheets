@@ -1,10 +1,12 @@
 <resources>
     <string name="app_name">Event Sheets</string>
     <string name="create_account">Create an Account</string>
-    <string name="full_name">Full Name</string>
+    <string name="nickname">Nickname</string>
+    <string name="username">Username</string>
     <string name="mobile">Mobile Number</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
+    <string name="password_confirm">Confirm Password</string>
     <string name="remember_me">Remember Me</string>
     <string name="signUp">Sign Up</string>
     <string name="welcome_back">Welcome Back</string>
